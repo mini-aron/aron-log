@@ -47,7 +47,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: flase,
+    enable: false,
     config: {
       repo: "mini-aron/morethan-log",
       "issue-term": "og:title",
